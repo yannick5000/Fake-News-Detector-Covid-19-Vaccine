@@ -33,6 +33,7 @@ Insert any short sentence related to COVID-19 vaccinations and check whether it 
 Our model has an accuracy of about 84 percent. Therefore, you might get wrong answers.
 We have provided six different demo sentences in German language (three true, three false) that our model will for sure predict correctly as true or false.
 Feel free to insert these sentences.
+
 ##Explanation of some code
 To train our machine learning model, we needed to preprocess our data base. The model cannot read normal German sentences, but rather calculates the frequency the single words appear in the text corpus and in combination with each other.
 For example, we set all letters to lower case and removed so-called stop words (common words like articles). We also lemmatized our sentences, that means single words were reduced to its base form or grouped together with other words.
