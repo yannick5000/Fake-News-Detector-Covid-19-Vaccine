@@ -20,12 +20,12 @@ https://colab.research.google.com/drive/1pjN8UmgB_ZcMSjfvo8gxFgPqRUdbTY3g
 To run the code, you need your own Google account. Please log in and connect the Google Colab Notebook to your account (also click on "Allow").
 To open the data used for our model, you need to import the data to your own Google drive. Please create a new folder called "data" within "ColabNotebooks" in your Google Drive with the following path: drive/MyDrive/ColabNotebooks/data/
 Upload the file statements.csv into the "data"-Folder.
-You can find the data here: XXX (Github)
+You can find the data here: (Github)
 Now you are ready to run the code from beginning to end.
 
 ##Data
 To use the Google Colab notebook, you need to upload the file statements.csv to your own Google Drive.
-You can find the data here: XXX (Github)
+You can find the data here: (Github)
 
 ##Usage
 After running all the code in Google Colab, you can start using our application on Anvil, the Fake News Detector.
