@@ -28,7 +28,7 @@ the end 1000 sentences were collected to train the model.
 First, we install the library:
 ####pip install tensorflow
 ####!pip install wordcloud
-Next, let’s import the library and read in the data:
+Next, letâ€™s import the library and read in the data:
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
@@ -49,7 +49,7 @@ len(stopWordsGerman)  #232 words
 Then, we analyze the frequency of each word. Words commonly called "stopword" which come up often 
 and have no use for understanding sentences are removed.The lemmatization function allows you to 
 contract words and group them into categories.
- eg:Lemmatization -> ‘Care’ ‘Caring’ 
+ eg:Lemmatization -> â€˜Careâ€™ â€˜Caringâ€™ 
 
 
 ##############  The LSTM model: an improved RNN
@@ -86,9 +86,9 @@ ther-tips-f0ff5b63fcd4
 If you need support or if Google Colab or the interface on Anvil are not working, you can contact one 
 of the following people via our TechLabs Slack community:
 Arnelle Nguefang Tchouamo
-David Brüninghoff
+David BrÃ¼ninghoff
 Dora Hinderer
-Leïla Mehuli?
+LeÃ¯la MehuliÄ‡
 Mona Fromm
 Yannick Reinhardt
 
