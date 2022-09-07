@@ -26,6 +26,7 @@ Now you are ready to run the code from beginning to end.
 ##Data
 To use the Google Colab notebook, you need to upload the file statements.csv to your own Google Drive.
 You can find the data here:https://github.com/yannick5000/Fake-News-Detector-Covid-19-Vaccine/blob/30ae2a39e2f77d11d84cefd843c7145e1abe7398/statements.csv
+
 ##Usage
 After running all the code in Google Colab, you can start using our application on Anvil, the Fake News Detector.
 The URL for the application is: https://XGIH7W2J3XZSQW46.anvil.app/3KGXEUN7XDU6WSMTXUMIEWAZ
