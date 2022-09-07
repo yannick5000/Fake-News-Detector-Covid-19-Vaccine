@@ -12,7 +12,7 @@ The machine learning model is based on a data base that our group has created. W
 The model is a logistic regression machine learning model.
 
 ###Alternative
-Our group has also used another model, a deep learning model (based on the same data base). You can find the Fake News Detector based on the Deep Learning Model here: XXX
+Our group has also used another model, a deep learning model (based on the same data base). You can find the Fake News Detector based on the Deep Learning Model here: https://github.com/yannick5000/Fake-News-Detector-Covid-19-Vaccine/blob/de98b134b5ad0943f86b0cd2233b63a848c12cac/README%20deep%20learning%20text.txt
 
 ##Installation
 Open our Google Colab:
