@@ -30,7 +30,7 @@ You can find the data here:https://github.com/yannick5000/Fake-News-Detector-Cov
 ##Usage
 After running all the code in Google Colab, you can start using our application on Anvil, the Fake News Detector.
 The URL for the application is: https://XGIH7W2J3XZSQW46.anvil.app/3KGXEUN7XDU6WSMTXUMIEWAZ
-Insert any short sentence related to COVID-19 vaccinations and check whether it is true or false with the respective button.
+Insert any short german sentence related to COVID-19 vaccinations and check whether it is true or false with the respective button.
 Our model has an accuracy of about 84 percent. Therefore, you might get wrong answers.
 We have provided six different demo sentences in German language (three true, three false) that our model will for sure predict correctly as true or false.
 Feel free to insert these sentences.
