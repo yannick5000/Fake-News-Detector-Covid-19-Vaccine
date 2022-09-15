@@ -1,12 +1,12 @@
 READ ME
 
-###########Fake News Detector (DL) with the ANVIL web application
+########### Fake News Detector (DL) with the ANVIL web application
 
 The Fake News Detector is a model-based application capable of predicting whether information on 
 Covid 19 is false or true.
 
 
-############Features
+############ Features
 Insert a full sentence related to COVID-19 vaccinations.Get a prediction if statement is true or false.
 
 ############# User guide
